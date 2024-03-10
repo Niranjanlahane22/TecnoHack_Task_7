@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "description": "study",
+        "priority": "low",
+        "due_date": "2024-03-10",
+        "completed": true
+    }
+]
